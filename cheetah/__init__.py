@@ -10,6 +10,7 @@ from .accelerator import (  # noqa: F401
     Drift,
     Element,
     HorizontalCorrector,
+    LongitudinalCosineWake,  #wakefields
     Marker,
     Quadrupole,
     RBend,
